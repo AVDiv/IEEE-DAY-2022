@@ -41,7 +41,7 @@ export const AboutSection = () => {
             key={data?.id}
           />
           <p className=" text-lg font-normal mx-20 xs:mx-12 lg:mx-0 mt-4 text-center lg:text-left">
-            IEEE Day is a celebration of worldwide IEEE members and engineers
+            IEEE Day is a hehe celebration of worldwide IEEE members and engineers
             gathered to share their technical knowledge among them and Worldwide
             celebrations demonstrate the ways thousands of IEEE members in local
             communities join to collaborate on ideas that
